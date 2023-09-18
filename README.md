@@ -1,2 +1,2 @@
-# CISC-375-assignment1
+# harn7606.github.io
 Personal Website
